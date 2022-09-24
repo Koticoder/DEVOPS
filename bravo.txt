@@ -1,0 +1,3 @@
+hi this is koti 
+learning devops 
+today i started with git
